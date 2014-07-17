@@ -1,0 +1,26 @@
+{
+  "name": "angular-socket-factory",
+  "version": "0.0.0",
+  "homepage": "https://github.com/hsubra89/angular-socket-factory",
+  "authors": [
+    "hsubra89 <hsubra89@gmail.com>"
+  ],
+  "description": "A wrapper method for socket io to wrap around data nicely on angular js.",
+  "main": "socketManager.js",
+  "keywords": [
+    "angular",
+    "socket.io",
+    "socketio"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.2.20"
+  }
+}
