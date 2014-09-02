@@ -1,0 +1,7 @@
+{
+	"registry": {
+		"search" : ["http://dev.bullioncapital.com:8005", "https://bower.herokuapp.com"],
+		"register" : "http://dev.bullioncapital.com:8005"
+	},
+	"directory": "js/vendor"
+}
