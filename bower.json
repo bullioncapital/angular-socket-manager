@@ -6,7 +6,7 @@
     "hsubra89 <hsubra89@gmail.com>"
   ],
   "description": "A wrapper method for socket io to wrap around data nicely on angular js.",
-  "main": "socketManager.js",
+  "main": "socket-manager.js",
   "keywords": [
     "angular",
     "socket.io",
