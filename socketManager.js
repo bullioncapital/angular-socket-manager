@@ -8,7 +8,7 @@
  * within the angular framework.
  */
 
-angular.module('hs-socket-manager', []).provider('SocketManager', function() {
+angular.module('socket-manager', []).provider('SocketManager', function() {
     "use strict";
 
     this.$get = ['$q', '$rootScope', function($q, $rootScope) {
