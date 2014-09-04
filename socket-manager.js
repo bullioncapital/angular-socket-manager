@@ -183,7 +183,7 @@
 						var args = Array.prototype.slice.call(arguments);
 
 						var event = args.shift();
-						if (!event) d.reject("No event passed through");
+						if (!event) return d.reject("No event passed through");
 
 						var reqParams = [event];
 
