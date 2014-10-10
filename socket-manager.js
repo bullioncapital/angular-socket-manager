@@ -134,7 +134,7 @@
 					return self;
 				}
 
-				OnEvent.prototype.then = function (fn) {
+				OnEvent.prototype.run = function (fn) {
 					var self = this;
 
 					if (!_.isFunction(fn)) throw new Error('Argument must be a function');
